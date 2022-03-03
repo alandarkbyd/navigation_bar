@@ -30,6 +30,7 @@ nav a:hover {
   font-size: 35px;
   transition-duration: 1s;
   color: cyan;
+  text-shadow: 3px 3px 15px cyan;
 }
 
 @media (max-width=916) {
@@ -51,5 +52,6 @@ nav a:hover {
   nav a {
     display: block;
     line-height: 0;
+    text-shadow: 9px 9px 5px black;
   }
 }
